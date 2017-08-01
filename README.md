@@ -15,8 +15,7 @@ is done, I then output the results as Text objects. All the file counts are pres
 
  
 
-4
-computing  nodes execution output:
+4 computing  nodes execution output:
 Content of part-00000 file: 
 
 HDLC     rfc1662.txt 4 rfc2863.txt 3 rfc891.txt 2
